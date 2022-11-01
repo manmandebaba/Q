@@ -2,9 +2,9 @@
 {"url": "clan://localhost/JS/A.txt","name":"A线"},
 {"url": "clan://localhost/JS/A2.txt","name":"A2线"},
 {"url": "clan://localhost/JS/Q.txt","name":"Q线"},
+{"url": "clan://localhost/JS/Q2.txt","name":"Q2线"},
 {"url": "clan://localhost/JS/S.txt","name":"S线"},
 {"url": "clan://localhost/JS/S2.txt","name":"S2线"},
-
 
 {"url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
 "name":"🍭甜蜜线路"},
