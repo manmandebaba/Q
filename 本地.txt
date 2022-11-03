@@ -5,6 +5,7 @@
 {"url": "clan://localhost/JS/Q2.txt","name":"Q2线"},
 {"url": "clan://localhost/JS/S.txt","name":"S线"},
 {"url": "clan://localhost/JS/S2.txt","name":"S2线"},
+{"url": "clan://localhost/JS/道长.txt","name":"道长线"},
 
 {"url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
 "name":"🍭甜蜜线路"},
@@ -28,7 +29,7 @@
 "name":"🍭agit/66666线路"},
 {"url":"https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
 "name":"🍭蚂蚁论坛线路"},
-{"url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
+{"url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
 "name":"🏡多多家庭版"},
 {"url":"http://111.67.196.181/mtv/meow.txt",
 "name":"🚀盒子线路"},
