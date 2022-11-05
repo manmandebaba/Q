@@ -3,7 +3,7 @@
     "dr_count": 118,
     "mode": 1,
 "spider":"./jar/xzy1029.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./tv/zb.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./tv/zb1.txt"]}]}],
 
 "rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},

@@ -1,0 +1,217 @@
+﻿{
+    "spider" : "./jar/ali.jar",
+    "wallpaper" : "http://刚刚.live/图",
+            {
+            "channels" : [
+                    "name" : "live",
+                        "proxy://do=live&type=txt&ext=./tv/zb.txt"]
+        }],
+            {
+            "name" : "哔哩",
+            "api" : "csp_Bili",
+            "quickSearch" : 1,
+            "ext" : "clan://TVBox/Bilibili/bili.txt"
+            {
+            "name" : "AList",
+            "searchable" : 1,
+            "ext" : "clan://TVBox/Bilibili/alist.txt"
+            },
+            {
+            "name" : "巴士",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            {
+            "key" : "櫻花",
+            "api" : "csp_Ying",
+            "searchable" : 1,
+            "filterable" : 1
+            "key" : "異界",
+            "name" : "異界",
+            "api" : "csp_Ysj",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+            "key" : "紙條",
+            "name" : "紙條",
+            "searchable" : 1,
+            "filterable" : 1,
+            "ext" : "a52cc59d21374117858c0dccb4b3c117"
+            },
+            {
+            "key" : "易搜",
+            "name" : "易搜",
+            "api" : "csp_YiSo",
+            "quickSearch" : 1,
+            "filterable" : 1,
+            },
+            {
+            "name" : "盤搜",
+            "searchable" : 1,
+            "ext" : "a52cc59d21374117858c0dccb4b3c117"
+            },
+            "name" : "推送",
+            "api" : "csp_Push",
+            "searchable" : 1,
+            "filterable" : 1,
+  
+            "name" : "百度",
+            "searchable" : 1,
+            "filterable" : 0,
+                "日韩动漫",
+                "大陆剧",
+                "欧美剧",
+                "动作片",
+                "爱情片",
+                "剧情片",
+                "战争片"]
+          },
+          {
+            "key" : "快播",
+            "api" : "https://www.kuaibozy.com/api.php/provide/vod/",
+            "categories" : [
+                "动漫",
+                "国产剧",
+                "欧美剧",
+                "泰剧",
+                "动作片",
+                "爱情片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "综艺"]
+        }
+],
+            "name" : "解析聚合",
+            "type" : 3,
+            "url" : "Demo"
+            "name" : "Json并发",
+        },
+            {
+            "name" : "Json轮询",
+        },
+            "type" : 1,
+            "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+            {
+            "name" : "keyu",
+            "url" : "http://newjiexi.gotka.top/keyu3.php?url=",
+                "header" : {
+            }
+            {
+            "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
+        },
+            "type" : 0,
+        }],
+    "flags" : [
+        "iqiyi",
+        "imgo",
+        "qiyi",
+        "letv",
+        "pptv",
+        "dbm3u8",
+        "mgtv",
+        "le",
+        "xigua",
+        "优酷",
+        "芒果",
+        "奇艺",
+        "ltnb",
+        "CL4K",
+        "xfyun",
+        "哔哩哔哩",
+            {
+                    {
+                    "value" : "0"
+                },
+                    "category" : 4,
+                },
+                    "name" : "framedrop",
+                },
+                    {
+                    "value" : "1"
+                },
+                    "name" : "start-on-prepared",
+                    "value" : "1"
+                    {
+                    "category" : 1,
+                },
+                    "category" : 1,
+                },
+                    "name" : "skip_loop_filter",
+                    {
+                    "name" : "reconnect",
+                    "value" : "1"
+                    "category" : 4,
+                    "name" : "enable-accurate-seek",
+                    {
+                    "category" : 4,
+                },
+                    "category" : 4,
+                },
+                    "name" : "mediacodec-handle-resolution-change",
+                    {
+                    "category" : 4,
+                },
+                    "name" : "dns_cache_timeout",
+                    "value" : "600000000"
+            {
+                    {
+                    "name" : "opensles",
+                    {
+                    "value" : "842225234"
+                },
+                    "category" : 4,
+                },
+                    "category" : 4,
+                },
+                    "name" : "start-on-prepared",
+                    {
+                    "name" : "http-detect-range-support",
+                },
+                    {
+                    "category" : 1,
+                },
+                    "name" : "skip_loop_filter",
+                    {
+                    "value" : "1"
+                    "category" : 4,
+                },
+                    {
+                    "category" : 4,
+                },
+                    "name" : "mediacodec-auto-rotate",
+                    "value" : "1"
+                    "category" : 4,
+                },
+                    {
+                    "category" : 4,
+                },
+                    {
+                    "value" : "600000000"
+    "ads" : [
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "www.jixunkyy.cn",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "wofwk.aoidf3.com",
+        "tj.tianwenhu.com",
+        "cdn.bootcss.com",
+        "img.xunzhuo123.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s4.cnzz.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "cdnjs.hnfenxun.com",
+    ]
+}

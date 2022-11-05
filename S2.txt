@@ -380,7 +380,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=./tv/zb0.txt"
+            "proxy://do=live&type=txt&ext=./tv/zb1.txt"
           ]
         }
       ]
