@@ -10,11 +10,11 @@
             "name" : "哔哩",
             "api" : "csp_Bili",
             "quickSearch" : 1,
-            "ext" : "clan://TVBox/Bilibili/bili.txt"
+            "ext" : "./Bilibili/bili.txt"
             {
             "name" : "AList",
             "searchable" : 1,
-            "ext" : "clan://TVBox/Bilibili/alist.txt"
+            "ext" : "./Bilibili/alist.txt"
             },
             {
             "name" : "巴士",
