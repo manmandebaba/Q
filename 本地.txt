@@ -1,9 +1,9 @@
 {"urls": [
-{"url": "./Quan.txt","name":"Quan线"},
-{"url": "./jar.txt","name":"jar线"},
-{"url": "./A.txt","name":"json线"},
-{"url": "./XBiu.txt","name":"XBiu线"},
-{"url": "./S.txt","name":"js线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/Quan.txt","name":"Quan线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/jar.txt","name":"jar线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/A.txt","name":"A线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/XBiu.txt","name":"XBiu线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/S.txt","name":"js线"},
 
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧计线 网络开始"},
 {"url":"http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt","name":"公益提取线"},
