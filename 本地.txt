@@ -1,7 +1,7 @@
 {"urls": [
 {"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/Quan.txt","name":"Quan线"},
 {"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/jar.txt","name":"jar线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/A.txt","name":"A线"},
+{"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/A2.txt","name":"爬虫线"},
 {"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/XBiu.txt","name":"XBiu线"},
 {"url": "https://raw.githubusercontent.com/manmandebaba/Q/main/S.txt","name":"js线"},
 
