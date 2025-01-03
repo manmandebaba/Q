@@ -34,6 +34,7 @@
 
 {"key":"糯米",   "name":"🍓糯米┃秒播","type":3,   "api":"csp_Nmyswv","searchable":1,   "quickSearch":1,   "changeable":1},
 {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"}],
+"flags":["imgo","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","qq 预告及花絮","iqiyi","奇艺","爱奇艺","爱 奇 艺","qiyi","fun","letv","leshi","sohu","搜狐","搜 狐","搜狐视频","tudou","xigua","cntv","1905","m1905","pptv","mgtv","芒果","芒果TV","芒 果 T V","wasu","bilibili","哔 哩","哔 哩 哔 哩","renrenmi"],
 
 "parses":[
 {"name":"🍃看看",   "url":"https://jx.m3u8.pw/?url=","type":0},
