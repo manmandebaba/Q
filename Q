@@ -1,6 +1,6 @@
 {"spider":"https://notabug.org/lTV/xren/raw/master/xren",
 "sites":[
-{"key":"csp_ivod",   "name":"「影豆豆」","type":3,   "api":"csp_DouDou","jar":"./fan.txt","searchable":0,   "quickSearch":0,   "filterable":0},
+{"key":"csp_ivod",   "name":"「影豆豆」","type":3,   "api":"csp_DouDou","searchable":0,   "quickSearch":0,   "filterable":0},
 {"key":"hipy_js_360影视[官]",   "name":"360影视[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/360影视[官].js"},
 {"key":"hipy_js_腾云驾雾[官]",   "name":"腾云驾雾[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/腾云驾雾[官].js"},
 {"key":"hipy_js_菜狗[官]",   "name":"菜狗[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/菜狗[官].js"},
