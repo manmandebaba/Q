@@ -1,7 +1,7 @@
 [
 {
             "name": "蛋蛋剧",
-            "api": "./U/dandanju.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/dandanju.js",
             "instance": "dandanju20240704",
             "webSite": "https://www.dandanju.tv",
             "remark": "",
@@ -10,7 +10,7 @@
         },
         {
             "name": "天天影視",
-            "api": "./U/tiantian.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/tiantian.js",
             "instance": "tiantian20240629",
             "webSite": "http://op.ysdqjs.cn",
             "remark": "",
@@ -19,7 +19,7 @@
         },
         {
             "name": "骚火电影",
-            "api": "./U/saohuo.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/saohuo.js",
             "instance": "saohuo20240623",
             "webSite": "https://saohuo.tv",
             "remark": "",
@@ -28,7 +28,7 @@
         },
         {
             "name": "瓜子影视",
-            "api": "./U/gzapp.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
             "webSite": "https://api.9cec79d.com",
@@ -38,7 +38,7 @@
         },
         {
             "name": "奇优影院",
-            "api": "./U/qiyou.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/qiyou.js",
             "instance": "qiyou20240904",
             "webSite": "http://www.qiyoudy4.com",
             "remark": "",
@@ -47,7 +47,7 @@
         },
         {
             "name": "韩剧看看",
-            "api": "./U/hjkk.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/hjkk.js",
             "instance": "hjkk20240624",
             "webSite": "https://www.hanjukankan.com",
             "remark": "",
@@ -56,7 +56,7 @@
         },
         {
             "name": "在线之家",
-            "api": "./U/zxzj.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/zxzj.js",
             "instance": "zxzj20240620",
             "webSite": "https://www.zxzja.com",
             "remark": "频繁搜索会触发风控，建议间隔十秒以上",
@@ -65,7 +65,7 @@
         },
         {
             "name": "两个BT",
-            "api": "./U/bttwo.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/bttwo.js",
             "instance": "bttwo20240628",
             "webSite": "https://www.bttwoo.com",
             "remark": "",
@@ -74,7 +74,7 @@
         },
         {
             "name": "老白听书",
-            "api": "./U/laobai.js",
+            "api": "https://js.catvod.com/https://raw.githubusercontent.com/manmandebaba/Q/main/U/laobai.js",
             "instance": "laobai20240831",
             "webSite": "https://apk-lb-json.fodexin.com",
             "remark": "",
