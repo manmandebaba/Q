@@ -1,7 +1,7 @@
 [
 {
             "name": "蛋蛋剧",
-            "api": "./UZ/dandanju.js",
+            "api": "./U/dandanju.js",
             "instance": "dandanju20240704",
             "webSite": "https://www.dandanju.tv",
             "remark": "",
@@ -10,7 +10,7 @@
         },
         {
             "name": "天天影視",
-            "api": "./UZ/tiantian.js",
+            "api": "./U/tiantian.js",
             "instance": "tiantian20240629",
             "webSite": "http://op.ysdqjs.cn",
             "remark": "",
@@ -19,7 +19,7 @@
         },
         {
             "name": "骚火电影",
-            "api": "./UZ/saohuo.js",
+            "api": "./U/saohuo.js",
             "instance": "saohuo20240623",
             "webSite": "https://saohuo.tv",
             "remark": "",
@@ -28,7 +28,7 @@
         },
         {
             "name": "瓜子影视",
-            "api": "./UZ/gzapp.js",
+            "api": "./U/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
             "webSite": "https://api.9cec79d.com",
@@ -38,7 +38,7 @@
         },
         {
             "name": "奇优影院",
-            "api": "./UZ/qiyou.js",
+            "api": "./U/qiyou.js",
             "instance": "qiyou20240904",
             "webSite": "http://www.qiyoudy4.com",
             "remark": "",
@@ -47,7 +47,7 @@
         },
         {
             "name": "韩剧看看",
-            "api": "./UZ/hjkk.js",
+            "api": "./U/hjkk.js",
             "instance": "hjkk20240624",
             "webSite": "https://www.hanjukankan.com",
             "remark": "",
@@ -56,7 +56,7 @@
         },
         {
             "name": "在线之家",
-            "api": "./UZ/zxzj.js",
+            "api": "./U/zxzj.js",
             "instance": "zxzj20240620",
             "webSite": "https://www.zxzja.com",
             "remark": "频繁搜索会触发风控，建议间隔十秒以上",
@@ -65,7 +65,7 @@
         },
         {
             "name": "两个BT",
-            "api": "./UZ/bttwo.js",
+            "api": "./U/bttwo.js",
             "instance": "bttwo20240628",
             "webSite": "https://www.bttwoo.com",
             "remark": "",
@@ -74,7 +74,7 @@
         },
         {
             "name": "老白听书",
-            "api": "./UZ/laobai.js",
+            "api": "./U/laobai.js",
             "instance": "laobai20240831",
             "webSite": "https://apk-lb-json.fodexin.com",
             "remark": "",
