@@ -1,0 +1,22 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "url": "",
+                "icon": "https://pan.ly93.cc/f/avZZim/莫比乌斯环.jpg"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "Q",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/单线路.zip",
+                "icon": "",
+                "version": "20250108-4"
+            }
+        ]
+    }
+]
