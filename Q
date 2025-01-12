@@ -1,4 +1,4 @@
-{"spider":"https://notabug.org/lTV/xren/raw/master/xren",
+{"spider":"./pg.jar",
 "sites":[
 {"key":"csp_ivod",   "name":"「影豆豆」","type":3,   "api":"csp_DouDou","searchable":0,   "quickSearch":0,   "filterable":0},
 {"key":"hipy_js_360影视[官]",   "name":"360影视[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/360影视[官].js"},
@@ -31,9 +31,9 @@
 {"key":"py_py_央视片库",   "name":"py_央视片库[py]","type":3,   "api":"./py/py_央视片库.py","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0},
 {"key":"py_py_cctv",   "name":"py_cctv[py]","type":3,   "api":"./py/py_cctv.py","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0},
 {"key":"py_py_hitv",   "name":"py_hitv[py]","type":3,   "api":"./py/py_hitv.py","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0},
-{"key":"检查更新","name":"检查更新","type":3,"api":"csp_Market","searchable":0,"changeable":0,"indexs":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/Share/main/market.json"},
-{"key":"糯米",   "name":"🍓糯米┃秒播","type":3,   "api":"csp_Nmyswv","searchable":1,   "quickSearch":1,   "changeable":1},
-{"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"}],
+{"key":"检查更新","name":"检查更新","type":3,"api":"csp_Market","searchable":0,"changeable":0,"indexs":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/manmandebaba/Q/main/market.json"}
+
+],
 "flags":["imgo","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","qq 预告及花絮","iqiyi","奇艺","爱奇艺","爱 奇 艺","qiyi","fun","letv","leshi","sohu","搜狐","搜 狐","搜狐视频","tudou","xigua","cntv","1905","m1905","pptv","mgtv","芒果","芒果TV","芒 果 T V","wasu","bilibili","哔 哩","哔 哩 哔 哩","renrenmi"],
 
 "parses":[
