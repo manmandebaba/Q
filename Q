@@ -1,6 +1,6 @@
 {"spider":"./pg.jar",
 "sites":[
-{"key":"csp_ivod",   "name":"「影豆豆」","type":3,   "api":"csp_DouDou","searchable":0,   "quickSearch":0,   "filterable":0},
+{"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","style":{"type":"rect","ratio":1.5}},
 {"key":"hipy_js_360影视[官]",   "name":"360影视[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/360影视[官].js"},
 {"key":"hipy_js_腾云驾雾[官]",   "name":"腾云驾雾[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/腾云驾雾[官].js"},
 {"key":"hipy_js_菜狗[官]",   "name":"菜狗[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/菜狗[官].js"},
@@ -35,7 +35,16 @@
 
 ],
 "flags":["imgo","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","qq 预告及花絮","iqiyi","奇艺","爱奇艺","爱 奇 艺","qiyi","fun","letv","leshi","sohu","搜狐","搜 狐","搜狐视频","tudou","xigua","cntv","1905","m1905","pptv","mgtv","芒果","芒果TV","芒 果 T V","wasu","bilibili","哔 哩","哔 哩 哔 哩","renrenmi"],
-
+"lives":[
+			{
+				"name": "直播",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			}
+],
 "parses":[
 {"name":"🍃夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"}}},
 {"name":"🍃虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"}}},
