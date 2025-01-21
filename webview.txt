@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml,https://epg.v1.mk/fy.xml.gz"
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml,https://epg.v1.mk/fy.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
@@ -97,9 +97,6 @@ webview://https://tv.cctv.com/live/cctveurope/index.shtml
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
 webview://https://tv.cctv.com/live/cctvamerica/
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频",CGTN英语
-webview://https://yangshipin.cn/tv/home?pid=600014550
-
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视频",CCTV 风云剧场
 webview://https://yangshipin.cn/tv/home?pid=600099658
 
@@ -108,6 +105,44 @@ webview://https://yangshipin.cn/tv/home?pid=600099655
 
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视频",CCTV 怀旧剧场
 webview://https://yangshipin.cn/tv/home?pid=600099620
+
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV16-4K
+webview://https://yangshipin.cn/tv/home?pid=600099502
+
+#EXTINF:-1 tvg-name="CCTV世界地理频道" tvg-logo="https://epg.v1.mk/logo/CCTV世界地理频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV世界地理频道
+webview://https://yangshipin.cn/tv/home?pid=600099637
+
+#EXTINF:-1 tvg-name="CCTV风云音乐频道" tvg-logo="https://epg.v1.mk/logo/CCTV风云音乐频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV风云音乐频道
+webview://https://yangshipin.cn/tv/home?pid=600099660
+
+#EXTINF:-1 tvg-name="CCTV兵器科技频道" tvg-logo="https://epg.v1.mk/logo/CCTV兵器科技频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV兵器科技频道
+webview://https://yangshipin.cn/tv/home?pid=600099649
+
+#EXTINF:-1 tvg-name="CCTV风云足球频道" tvg-logo="https://epg.v1.mk/logo/CCTV风云足球频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV风云足球频道
+webview://https://yangshipin.cn/tv/home?pid=600099636
+
+#EXTINF:-1 tvg-name="CCTV高尔夫网球频道" tvg-logo="https://epg.v1.mk/logo/CCTV高尔夫网球频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV高尔夫·网球频道
+webview://https://yangshipin.cn/tv/home?pid=600099659
+
+#EXTINF:-1 tvg-name="CCTV女性时尚频道" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV女性时尚频道
+webview://https://yangshipin.cn/tv/home?pid=600099650
+
+#EXTINF:-1 tvg-name="CCTV央视文化精品频道" tvg-logo="https://epg.v1.mk/logo/CCTV央视文化精品频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV央视文化精品频道
+webview://https://yangshipin.cn/tv/home?pid=600099653
+
+#EXTINF:-1 tvg-name="CCTV央视台球频道" tvg-logo="https://epg.v1.mk/logo/CCTV央视台球频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV央视台球频道
+webview://https://yangshipin.cn/tv/home?pid=600099652
+
+#EXTINF:-1 tvg-name="CCTV电视指南频道" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南频道.png" group-title="央视频" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV电视指南频道
+webview://https://yangshipin.cn/tv/home?pid=600099656
+
+#EXTINF:-1 tvg-name="CCTV卫生健康频道" tvg-logo="https://epg.v1.mk/logo/CCTV卫生健康频道.png" group-title="央视网VIP" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV卫生健康频道
+webview://https://yangshipin.cn/tv/home?pid=600099651
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+#EXTINF:-1 tvg-name="农民卫视" tvg-logo="https://epg.v1.mk/logo/农民卫视.png" group-title="卫视",农民卫视
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -144,6 +179,8 @@ webview://https://yangshipin.cn/tv/home?pid=600002531
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 webview://https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+webview://https://www.sztv.com.cn/pindao/index.html?id\u003d7867
 
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 webview://https://yangshipin.cn/tv/home?pid=600002516
@@ -202,15 +239,40 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
 
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+webview://https://yangshipin.cn/tv/home?pid=600152138
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+webview://https://www.xjtvs.com.cn/column/tv/434?channelId\u003d1
+
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+webview://https://yangshipin.cn/tv/home?pid=600193252
+
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
 webview://https://www.gdtv.cn/tvChannelDetail/43
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 webview://https://www.gdtv.cn/tvChannelDetail/51
 
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://epg.v1.mk/logo/广东少儿.png" group-title="卫视",广东少儿
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://epg.v1.mk/logo/广东少儿.png" group-title="少儿",广东少儿
 webview://https://www.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="少儿",深圳少儿
+webview://https://www.sztv.com.cn/pindao/index.html?id\u003d7881
 
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="卫视",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="少儿",嘉佳卡通
 webview://https://www.gdtv.cn/tvChannelDetail/66
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
+webview://https://live.kankanews.com/huikan?id\u003d9
 
+#EXTINF:-1 group-title="少儿" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" epg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml",金鹰卡通
+webview://https://live.mgtv.com/?channelId=287
+
+#EXTINF:-1 group-title="少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" epg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml",浙江少儿
+webview://https://www.cztv.com/liveTV/108
+
+
+#EXTINF:-1 group-title="香港网页" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml",凤凰中文
+webview://http://m.345iptv.com/?act=play&token=c205c833867e1d0cdcad6e113e628c35&tid=gt&id=1
+#EXTINF:-1 group-title="香港网页" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml",凤凰资讯
+webview://http://m.345iptv.com/?act=play&token=9357ae301d8622b418598d2d8ed17892&tid=gt&id=2
+#EXTINF:-1 group-title="香港网页" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" epg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml",凤凰香港
+webview://http://m.345iptv.com/?act=play&token=526b2628ac693b275f758ffe5361fb12&tid=gt&id=3
