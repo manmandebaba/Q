@@ -9,7 +9,10 @@
 {"key": "csp_appys_皇冠","name": "皇冠影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cs.hgyx.vip/api2/api.php/app/"},  
 {"key": "csp_appys_海兔","name": "海兔影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.haituu.tv/api.php/v1.vod/"},  
 {"key": "csp_appys_天天","name": "天天美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.ttmja.com//api.php/app/"},  
+{"key": "csp_appys_快看","name": "快看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kkwk123.top/api.php/app/"}, 
 
+{"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<div class=\"sort-item\"&&</div>"}},
+{"key":"大师兄","name":"大师影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"hipy_js_央视大全[官]",   "name":"央视大全","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/央视大全[官].js"}
   ],
   "parses": [
