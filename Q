@@ -2,6 +2,7 @@
   "spider": "./feimao.jar",
   "sites": [
 {"key":"csp_SP360","name":"360官源","type":3,"api":"csp_SP360"},
+{"key":"白嫖腾讯","name":"🐧白嫖腾讯","type":3,"api":"csp_Breeze","jar":"./Mscd.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"jxApi":"P12Vky+Hh+J8E8VBlBalXZ4U977RomVShCu95Y1BHFjY5sKGRCrBBEUPrJuJboSUaon5U6MLN2jBGUkiGC8Qk7+SeZ0AZ3ysb4hmWuZC+V4=","prefix":"8kZuBbTN/DDVSBdkBrEenhtLgDbTxuj5cz0BVfvG/B4="}},
 {"key":"hipy_js_腾云驾雾[官]",   "name":"腾云驾雾","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/腾云驾雾[官].js"},
 {"key": "csp_appys_影盒","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-vip.lyyytv.cn/api.php/app/"},  
 {"key": "csp_appys_永乐","name": "永乐视频","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.rrys.lv/api.php/app/"},  
