@@ -3,7 +3,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"豆豆","name":"豆豆荐影","type": 3, "api": "csp_DouDou","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"爱奇艺",   "name":"爱奇艺","type":3,   "api":"./py/py_爱奇艺.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1,   "playerType":2},
 {"key":"hipy_js_360影视[官]",   "name":"360影视[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/360影视[官].js"},
 {"key":"hipy_js_腾云驾雾[官]",   "name":"腾云驾雾[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/腾云驾雾[官].js"},
 {"key":"hipy_js_百忙无果[官]",   "name":"百忙无果[官]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/百忙无果[官].js"},
@@ -14,6 +14,10 @@
 
 ],
   "parses": [
+{"name":"聚合","type":3,"url":"Demo"},
+{"name":"皮虾box","type":"1","url":"https://app.wki8.com/ipa/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"江湖","type":"1","url":"http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"看看",   "url":"https://jx.m3u8.pw/?url=","type":0},
 {"name":"夜幕",   "url":"https://www.yemu.xyz/?url=","type":0},
 {"name":"playm",   "url":"https://www.playm3u8.cn/jiexi.php?url=","type":0},
@@ -34,7 +38,8 @@
 {"name":"华永",   "url":"https://huayong.net/jx5/?url=","type":0}
   ],
 "logo":"./m.png",
-"lives":[
+"flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
+ "lives":[
 {"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"范明明","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
