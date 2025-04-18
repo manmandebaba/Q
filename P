@@ -97,9 +97,9 @@
 	],
 	"parses": [
 		{
-			"name": "巧计1https://zy.qiaoji8.com/gouzi.php?url=",
-			"url": "1",
-			"type": 0,
+			"name": "巧计1",
+			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
+			"type": 1,
 			"header": {
 				"User-Agent": "Mozilla/5.0"
 			}
