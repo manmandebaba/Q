@@ -1,5 +1,14 @@
 ﻿{
 "sites":[
+        {
+            "key": "csp_采集_豆瓣资源",
+            "name": "豆瓣短剧",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
 {
 	"key": "金牌.py",
 	"name": "金牌(py)",
