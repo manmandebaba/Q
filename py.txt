@@ -1,14 +1,16 @@
 ﻿{
 "sites":[
-        {
-            "key": "csp_采集_豆瓣资源",
-            "name": "豆瓣短剧",
-            "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },
+{
+	"key": "csp_采集_豆瓣资源",
+	"name": "豆瓣短剧",
+	"type": 1,
+	"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+	"playerType": 1,
+	"searchable": 1,
+	"changeable": 1,
+
+	"categories": ["国产剧", "短剧大全","动画片", "香港剧", "韩剧", "欧美剧", "台湾剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"]
+},
 {
 	"key": "金牌.py",
 	"name": "金牌(py)",
