@@ -8,14 +8,22 @@
 {"key":"三三","name":"360影视","type":3,"api":"csp_SP360","jar":"./G.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"奇艺","name":"爱奇艺","type":3,"api":"csp_iqiyi","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
 {"key":"优酷","name":"优酷网","type":3,"api":"csp_youku","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
+{"key":"hipy_js_步蕾影视[优]",   "name":"步蕾影视[优]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/步步[优].js"},
+{"key":"hipy_js_苹果影视[优]",   "name":"苹果影视[优]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/苹果[优].js"},
+{"key":"csp_臻彩","name":"🥽臻彩┃4K4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmszcsj.lfytv.cn/api.php/app/"},
+{"key":"QD4K","name":"🐷猪猪┃单线4K","type":3,"api":"csp_AppYsV2","playerType":2,"ext":"http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"},
 
 {"key":"csp_Vip","name":"𝙑𝙞𝙥影视[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","ext":{"站名":"Vip电影网","请求头":"手机#Referer$https://vip1280.net/","编码":"UTF-8","搜索url":"https://vip1280.net/search.html?wd={wd}","分类url":"https://vip1280.net/frim/{cateId}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"index1&index2&index3&index4&index5&index22"},"danmu":""},
 {"key":"一起影视","name":"一起影视[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","ext":{"分类url":"http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d","分类":"电视剧$2#电影$1#综艺$3#动漫$4#短剧$30"},"danmu":""},
 {"key":"人人影视","name":"人人蓝光[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片类型":"圥忈制作","简介":"请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>","分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}},
 {"key":"json_素白白", "name": "素白白[优]", "type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar", "ext": { "简介" :"素白白为您剧情介绍:+yp_context\">&&</div>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},
 {"key":"json_剧白白", "name": "剧白白[优]","searchable": 0,"quickSearch": 0,"filterable": 1,"type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar", "ext": { "简介" :"剧白白为您剧情介绍:+detail-content\" style=*>&&</span>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{"key":"json_一起看短剧",   "name":"一起看短剧[XBPQ]","type":3,   "api":"csp_XBPQ","jar":"./XBPQ.jar","ext":"./json/一起看短剧.json","searchable":1,   "quickSearch":1,   "filterable":1},
+{"key":"json_奶茶短剧",   "name":"奶茶短剧[XBPQ]","type":3,   "api":"csp_XBPQ","jar":"./XBPQ.jar","ext":"./json/奶茶短剧.json","searchable":1,   "quickSearch":1,   "filterable":1},
+{"key":"json_天龙短剧",   "name":"天龙短剧[XBPQ]","type":3,  "api":"csp_XBPQ","jar":"./XBPQ.jar","ext":"./json/天龙短剧.json","searchable":1,   "quickSearch":1,   "filterable":1},
 
 {"key":"金牌.py","name":"金牌(py)","type":3,"api":"./py/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
+{"key":"py_边缘影视","name":"边缘影视[py]","type":3,"api":"./py/bianyuan.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_采集_360资源",   "name":"360资源[资]","type":1,   "api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","爽文短剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
 {"key":"csp_采集_非凡资源",   "name":"非凡资源[资]","type":1,   "api":"http://api.ffzyapi.com/api.php/provide/vod/?ac=list","searchable":1,   "quickSearch":1,   "filterable":1,   "categories":["国产剧","短剧","香港剧","台湾剧","韩国剧","欧美剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","动漫片"]},
