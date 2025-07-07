@@ -1,5 +1,5 @@
 ﻿{
-"spider": "./pg.jar",
+"spider": "./pizazz.jar",
 "sites":[
 {"key":"csp_采集_豆瓣资源",   "name":"豆瓣短剧","type":1,   "api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/","categories":["国产剧","短剧大全","动画片","香港剧","韩剧","欧美剧","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"csp_采集_旺旺资源",   "name":"旺旺短剧","type":1,   "api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","categories":["短剧"]},
@@ -10,9 +10,17 @@
 {"key":"优酷","name":"优酷网","type":3,"api":"csp_youku","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
 {"key":"hipy_js_步蕾影视[优]",   "name":"步蕾影视[优]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/步步[优].js"},
 {"key":"hipy_js_苹果影视[优]",   "name":"苹果影视[优]","type":3,   "api":"./drpy_libs/drpy2.min.js","searchable":1,   "quickSearch":1,   "filterable":1,   "order_num":0,   "ext":"./drpy_js/苹果[优].js"},
-{"key":"csp_臻彩","name":"🥽臻彩┃4K4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmszcsj.lfytv.cn/api.php/app/"},
-{"key":"QD4K","name":"🐷猪猪┃单线4K","type":3,"api":"csp_AppYsV2","playerType":2,"ext":"http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"},
-
+{"key":"py_华数TV",   "name":"华数TV[py]","type":3,   "api":"./py/华数TV.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_央视片库",   "name":"央视片库[py]","type":3,   "api":"./py/央视片库.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{
+      "key": "爱看机器人",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"csp_Vip","name":"𝙑𝙞𝙥影视[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","ext":{"站名":"Vip电影网","请求头":"手机#Referer$https://vip1280.net/","编码":"UTF-8","搜索url":"https://vip1280.net/search.html?wd={wd}","分类url":"https://vip1280.net/frim/{cateId}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"index1&index2&index3&index4&index5&index22"},"danmu":""},
 {"key":"一起影视","name":"一起影视[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","ext":{"分类url":"http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d","分类":"电视剧$2#电影$1#综艺$3#动漫$4#短剧$30"},"danmu":""},
 {"key":"人人影视","name":"人人蓝光[优]","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片类型":"圥忈制作","简介":"请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>","分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}},
