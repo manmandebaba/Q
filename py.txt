@@ -2,6 +2,17 @@
 "spider": "./pizazz.jar",
 "sites":[
 {"key":"csp_采集_豆瓣资源",   "name":"豆瓣短剧","type":1,   "api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/","categories":["国产剧","短剧大全","动画片","香港剧","韩剧","欧美剧","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"小乐","name":"小乐｜星源","type":1,"api":"http://8.155.50.80:9671/ls.php/vod","playUrl":"json:http://8.155.50.80/xiayede.php?key=xbq95zhuan&url=","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"咖啡","name":"咖啡(py)","type":3,"api":"./py/AppGet2.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"url":"https://omofun.lol/coffee.txt","datakey":"qwertyuiopqwertm","dataiv":"qwertyuiopqwertm"}},
+{"key":"热剧影视","name":"热剧影视(py)","type":3,"api":"./py/AppGet2.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"url":"https://app-qy.oss-cn-shanghai.aliyuncs.com/rebo.txt","datakey":"8191A7F47B37882F","dataiv":"8191A7F47B37882F"}},
+{"key":"鲸鱼","name":"鲸鱼(py)","type":3,"api":"./py/AppGet2.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"url":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","datakey":"AAdgrdghjfgswerA","dataiv":"AAdgrdghjfgswerA"}},
+{"key":"雄鹰","name":"雄鹰(py)","type":3,"api":"./py/AppGet2.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"url":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
+{"key":"榴莲","name":"榴莲(py)","type":3,"api":"./py/AppGet2.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":{"url":"https://qjappcms.ll4k.xyz","datakey":"1yGA85sJ5STtE7uj","dataiv":"1yGA85sJ5STtE7uj"}},
+{"key":"小红","name":"小红(py)","type":3,"api":"./py/AppGet.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":2,"ext":{"url":"http://www.xiaohys.com","datakey":"ENonBHeVBoYZhVUV","dataiv":"ENonBHeVBoYZhVUV"}},
+{"key":"热播","name":"热播(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://v.rbotv.cn"}},
+{"key":"天天","name":"天天(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://tt.ysdqjs.cn"}},
+{"key":"浪酷","name":"浪酷(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://v.lkuys.cn"}},
+
 {"key":"csp_采集_旺旺资源",   "name":"旺旺短剧","type":1,   "api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","categories":["短剧"]},
 {"key":"腾讯","name":"腾讯视频","type":3,"api":"csp_qq","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
 {"key":"芒果","name":"芒果TV","type":3,"api":"csp_mgtv","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
