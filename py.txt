@@ -12,7 +12,16 @@
 {"key":"热播","name":"热播(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"天天","name":"天天(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://tt.ysdqjs.cn"}},
 {"key":"浪酷","name":"浪酷(py)","type":3,"api":"./py/AppRJ.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":3,"ext":{"url":"http://v.lkuys.cn"}},
-
+{"key":"py_咪咕视频",   "name":"咪咕视频[py]","api":"./PY/咕呱.py","quickSearch":1,"searchable":1,"filterable":1,"type":3},
+{"key":"py_冠军","name":"冠军金牌","api":"./PY/冠军.py","quickSearch":1,"searchable":1,"filterable":1,"type":3},
+{"key":"py_华数TV",      "name":"华数TV[py]","type":3,      "api":"./py/华数TV.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_央视片库",   "name":"央视片库[py]","type":3,   "api":"./py/央视片库.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_直播合集",   "name":"直播合集[py]","type":3,   "api":"./py/直播.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_河马短剧",   "name":"河马短剧[py]","type":3,   "api":"./py/河马短剧.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_蓝莓短剧",   "name":"蓝莓短剧[py]","type":3,   "api":"./py/蓝莓短剧.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_偷乐短剧",   "name":"偷乐短剧[py]","type":3,   "api":"./py/偷乐短剧.py","searchable":1,   "quickSearch":1,   "changeable":1,   "filterable":1},
+{"key":"py_锦鲤短剧",   "name":"锦鲤短剧[py]","type":3,   "api":"./py/锦鲤短剧.py"},
+	
 {"key":"csp_采集_旺旺资源",   "name":"旺旺短剧","type":1,   "api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","categories":["短剧"]},
 {"key":"腾讯","name":"腾讯视频","type":3,"api":"csp_qq","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
 {"key":"芒果","name":"芒果TV","type":3,"api":"csp_mgtv","jar":"./G.jar","searchable":1,"filterable":1,"changeable":1},
