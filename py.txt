@@ -24,6 +24,7 @@
 {"key":"广告","name":"广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
   "parses": [
+{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"剖云","url":"https://www.pouyun.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"playm","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0},
 {"name":"花旗","url":"https://www.huaqi.live/?url=","type":0},
@@ -55,5 +56,6 @@
 ]
 
 }
+
 
 
